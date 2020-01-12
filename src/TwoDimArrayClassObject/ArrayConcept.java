@@ -18,17 +18,17 @@ public class ArrayConcept {
 		*/
 		
 		{
-			/*
-			 * 
-			 * int data[][]= {{10,20,30},{40,50,60},{70,80,90}}; for (int i1 = 0; i1 < 3;
-			 * i1++) { for (int j1 = 0; j1 < 3; j1++) { System.out.print(data[i1][j1]+" ");
-			 * 
-			 * } System.out.println(" ");
-			 * 
-			 * }
-			 * 
-			 * 
-			 */
+			
+			  
+			  int data[][]= {{10,20,30},{40,50,60},{70,80,90}}; for (int i1 = 0; i1 < 3;
+			  i1++) { for (int j1 = 0; j1 < 3; j1++) { System.out.print(data[i1][j1]+" ");
+			  
+			  } System.out.println(" ");
+			  
+			  }
+			  
+			  
+			 
 			
 				String car[]= {"Volvo", "BMW", "Ford", "Mazda"};
 			    /*for (int i = 0; i < car.length; i++) {
